@@ -4,8 +4,8 @@ title: "NSE India Multi-Timeframe TL and Daily OHLCV Data in Parquet"
 type: dataset
 authors:
   - name: "OLO Labs"
-repository-code: "https://github.com/olo-labs/olo-testdata-nse-tl-data"
-url: "https://github.com/olo-labs/olo-testdata-nse-tl-data"
+repository-code: "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data"
+url: "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data"
 license: Apache-2.0
 keywords:
   - NSE
