@@ -8,8 +8,8 @@
     "Indian Stock Market TL and OHLCV Database"
   ],
   "description": "Query-ready NSE India daily OHLCV with Daily, Weekly, Monthly, and Quarterly TL and TL-OHLC values organized as one Parquet file per symbol.",
-  "url": "https://github.com/olo-labs/olo-testdata-nse-tl-data",
-  "identifier": "https://github.com/olo-labs/olo-testdata-nse-tl-data",
+  "url": "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data",
+  "identifier": "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data",
   "keywords": [
     "NSE technical levels",
     "NSE TL data",
@@ -27,9 +27,9 @@
   },
   "distribution": {
     "@type": "DataDownload",
-    "contentUrl": "https://github.com/olo-labs/olo-testdata-nse-tl-data/releases",
+    "contentUrl": "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data/releases",
     "encodingFormat": "application/x-parquet"
   },
-  "license": "https://github.com/olo-labs/olo-testdata-nse-tl-data/blob/main/LICENSE",
+  "license": "https://github.com/olo-labs/olo-ai-training-data-nse-tl-data/blob/main/LICENSE",
   "inLanguage": "en"
 }

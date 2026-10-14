@@ -44,7 +44,7 @@ Common discovery terms: NSE technical levels dataset, NSE TL data, Indian stock 
 ## Repository layout
 
 ```text
-olo-testdata-nse-tl-data/
+olo-ai-training-data-nse-tl-data/
 ├── database/
 │   ├── a/ABB/tl.parquet
 │   ├── r/RELIANCE/tl.parquet

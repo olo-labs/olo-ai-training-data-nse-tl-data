@@ -2,7 +2,7 @@
 
 > Query-ready NSE India daily OHLCV plus Daily, Weekly, Monthly, and Quarterly TL/TL-OHLC values, stored as one local Parquet file per symbol.
 
-Canonical repository: https://github.com/olo-labs/olo-testdata-nse-tl-data
+Canonical repository: https://github.com/olo-labs/olo-ai-training-data-nse-tl-data
 
 ## Documentation
 
